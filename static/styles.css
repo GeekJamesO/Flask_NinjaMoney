@@ -1,0 +1,47 @@
+.displayGold {
+    margin: 10px 40px;
+}
+.goldLabel {
+    display:inline-block;
+}
+textarea {
+    border: 3px solid black;
+}
+.showChoices {
+    padding: 10px;
+    margin:  10px 40px;
+}
+.building {
+    display: inline-block;
+    width: 200px;
+    margin: 20px 20px;
+    border:3px solid black;
+}
+.findGold {
+    height:20px;
+    width:100px;
+    margin: 0 45px 20px 45px;
+}
+.activities {
+    margin: 30px 40px;
+    vertical-align:top;
+}
+.activitiesText {
+    Width: 80%;
+    display: inline-block;
+    scroll-behavior: auto;
+    border: 3px solid black;
+}
+.resetButton {
+    background-color: red;
+    margin: 30px 40px;
+}
+h2 {
+    margin: 0 60px;
+}
+p {
+    margin: 30px 30px;
+}
+.activitiesP {
+    margin: 5px;
+}
